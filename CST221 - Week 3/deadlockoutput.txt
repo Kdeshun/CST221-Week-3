@@ -1,0 +1,24 @@
+Counter increment before critical selection : 2
+Thread 3895 is starved. Entering sleep mode.
+Counter increment inside critical selection: 4
+Thread 3895 has woken from its sleep.
+Process 3895 accessing shared resource, num: 33 
+Counter increment after critical selection: 5
+Counter increment before critical selection : 2
+Thread 3896 is starved. Entering sleep mode.
+Counter increment inside critical selection: 4
+Thread 3896 has woken from its sleep.
+Process 3896 accessing shared resource, num: 33 
+Counter increment after critical selection: 5
+Counter increment before critical selection : 2
+Thread 3897 is starved. Entering sleep mode.
+Counter increment inside critical selection: 4
+Thread 3897 has woken from its sleep.
+Process 3897 accessing shared resource, num: 33 
+Counter increment after critical selection: 5
+Counter increment before critical selection : 2
+Thread 3898 is starved. Entering sleep mode.
+Counter increment inside critical selection: 4
+Thread 3898 has woken from its sleep.
+Process 3898 accessing shared resource, num: 33 
+Counter increment after critical selection: 5
